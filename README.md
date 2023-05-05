@@ -22,7 +22,7 @@ This API follows REST API conventions and covers the following functionalities:
 
 ## Task Expectations
 
-- [] Instructions in the README to setup the API & the relevant database
-- [] Addition of test cases to handle the various endpoints available
-- [] Postman/Swagger/OpenAPI spec so that the APIs can be tested
+- [ ] Instructions in the README to setup the API & the relevant database
+- [ ] Addition of test cases to handle the various endpoints available
+- [ ] Postman/Swagger/OpenAPI spec so that the APIs can be tested
 More tasks would be added to the list during the course of development
